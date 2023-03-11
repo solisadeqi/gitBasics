@@ -5,13 +5,4 @@ asc
 asccas
 ca
 c
-a
-xas
-cs
-xasasx
-ax
-cs
-csc
-sdcsc
-cac
-sdcsc
+ 
