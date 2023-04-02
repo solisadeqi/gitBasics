@@ -1,7 +1,5 @@
 first code
 
-local        stage           repository
-
 
 
 
