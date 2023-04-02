@@ -1,7 +1,7 @@
 first code
 
 
-local                   stage           repository
+local        stage           repository
 
 
 
